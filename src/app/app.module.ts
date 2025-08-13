@@ -52,7 +52,7 @@ import { DontComponent } from './dont/dont.component';
     AppRoutingModule,
     FormsModule,
     AngularFireModule.initializeApp({
-  apiKey: "AIzaSyC4oScU20sW9CKYo9dj-g0IjSbM_Be2xmY",
+  apiKey: "GOOGLE_API_KEY",
   authDomain: "charity-123.firebaseapp.com",
   projectId: "charity-123",
   storageBucket: "charity-123.appspot.com",
